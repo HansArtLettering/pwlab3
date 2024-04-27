@@ -1,5 +1,5 @@
-# lab3web
-Stephen Pratama Kurnia TI.22.A5 312210635
+# pwlab3
+Farhan Zulfahriansyah TI.22.A5 312210494
 ## Database
 ### Tabel
 
